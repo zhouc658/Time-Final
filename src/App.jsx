@@ -8,6 +8,8 @@ function App() {
   const [taskType, setTaskType] = useState([]) //the type of task they can do: work , social, personal
   const [addedTime, setAddedTime] = useState(0); //the amount of time users decide to add for a task
 
+// change aldfjd;ajf 
+
   //need a function to handle the three task types, and record what type it is and then when a type is choosen it will go to the Task description page
   const handleTaskType= (type) =>{ 
     setTaskType([...taskType] )
