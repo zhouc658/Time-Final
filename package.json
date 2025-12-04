@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://git config http.postBuffer 524288000.github.io/Time-Final",
+  "homepage": "https://zhouc658.github.io/Time-Final",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
